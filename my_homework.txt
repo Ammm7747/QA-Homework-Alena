@@ -9,4 +9,5 @@
 6. Все изменения закоммичены и отправлены на GitHub.
 
 Ссылка на репозиторий:
-https://github.com/Ammm7747/QA-Homework-Alena/tree/main
+https://github.com/Ammm7747/QA-Homework-Alena
+
